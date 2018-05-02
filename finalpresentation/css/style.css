@@ -1,12 +1,12 @@
 body {
 background-color: lightblue;
 color: blue;
-text-size: 45px;
+font-size: 45px;
 }
 a {
   background-color: blue;
   color: red;
-  text-size: 45px;
+  font-size: 45px;
 }
 a:hover {
   background-color: orange;
@@ -14,5 +14,5 @@ a:hover {
 header{
   background-color: lightblue;
   color: blue;
-  text-size: 45px;
+  font-size: 45px;
 }
