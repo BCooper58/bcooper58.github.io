@@ -1,4 +1,4 @@
-<DOCTYPE !php>
+<DOCTYPE !html>
 <html>
 <title>
   DON'T LOOK UP HERE
