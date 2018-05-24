@@ -1,1 +1,14 @@
+a {
+  color: navyblue;
+  background-color: blue;
+  font-size: 50px;
+}
+
+a:hover{
+  background-color: orange;
+}
+
+header {
+  font-size: 100px;
+}
 
